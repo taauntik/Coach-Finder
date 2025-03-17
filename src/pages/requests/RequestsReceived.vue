@@ -1,8 +1,3 @@
 <template>
-    <section>
-        Filter
-    </section>
-    <section>
-        LIST OF COACHES
-    </section>
+    REQUESTS
 </template>
